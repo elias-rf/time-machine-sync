@@ -1,0 +1,16 @@
+{
+  "name": "time-machine-sync",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Elias Ribeiro Filho <eliasribeiro@outlook.com>",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "description": ""
+}
