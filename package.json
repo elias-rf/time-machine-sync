@@ -7,10 +7,16 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "homepage": "https://github.com/UserName/package-name",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^26.1.0"
+    "jest": "^26.2.2",
+    "prettier": "^2.0.5"
   },
-  "description": ""
+  "description": "File backup and synchronization",
+  "keywords": [
+    "sync",
+    "mirror",
+    "timemachine"
+  ]
 }
